@@ -1,3 +1,7 @@
+Dana: ...ll...
+Dana: J-ll...
+Dana: Jill!
+Jill: Wha?
 Dana: Jill, are you here yet? The bar opens in a few minutes.
 Jill: Huh, what?
 Dana: Gil already cleaned the glasses, we're just waiting on you.
@@ -5,22 +9,33 @@ Jill: I- I'm here.
 [XS:danaface,]Dana: There you are. And right on time.
 Jill: G'eveni-... What?
 Dana: Something wrong?
-Jill: Ignoring the fact that I don't have any recollection of how I even got here...
-Jill: Why do you have cat ears, Boss?
+Jill: Putting aside the fact that I don't have any recollection how I even got here...
+Jill: Why are you wearing cat ears, Boss?
+Dana: Wearing? I'm not wearing anything.
+Jill: (Wait, are they... moving? Don't tell me...)
+Jill: (ARE THEY REAL?!)
+Jill: W- why do you have cat ears, Boss?
 [XS:danaface,worry]Dana: Because they are cute and cool.
 Jill: No, I meant: Why do YOU have cat ears?
-Dana: Because of the milk.
+[XS:danaface,]Dana: Because of the milk.
 Jill: What are you-
 Jill: ...
 Jill: Why is there milk in the bar dispenser?
 Jill: Wait, is that real milk? Where did you even get that?
-Dana: It was a gift from Iris. 'Everyone that drinks this milk gets at least three times cuter' she said.
+Dana: It was a gift from Iris. You remember Iris, right?
+Jill: Your friend that has a bar in Saint Alicia? You mentioned her a few times.
+Dana: Yes, her. I was talking with her about how cute her ears were and she asked me if I wanted a pair too.
+Dana: And today, I arrive to a parcel containing the milk and a note.
+Dana: 'Everyone that drinks this milk gets at least three times cuter' it said.
 Dana: Can't argue with results.
 Jill: (...Can't argue, indeed.)
 [XS:danaface,worry]Dana: Hey, no staring unless you give me something to stare at too.
-[XS:danaface,smile]Dana: Here, drink up. It's on the house.
-Jill: You expect me to just drink something that might make me grow cat ears for no reason? Are you sure it's safe?
-[XS:danaface,closedsmile]Dana: Hey, be happy I told you what it does before you drank it. And don't worry, it's been thoroughly tested.
+[XS:danaface,]Dana: Here, drink up. It's on the house.
+Jill: Boss, do you expect me to just drink something that might make me grow cat ears for no reason? Are you sure it's safe?
+[XS:danaface,closedsmile]Dana: Hey, be happy I told you what it does before you drank it.
+Dana: If it'll put you at ease I can tell you that its been thoroughly tested, so don't worry!
+Jill: Tested?
+[XS:danaface,]Dana: I decided to at least share the fun.
 Jill: Wait, what does that mean? Did you-
 Dana: Anyway, leave it out. That way customers can see it. But don't feel shy about drinking it yourself. I'll be in my office.
 Jill: Yeah, yeah...
@@ -39,9 +54,9 @@ Jill: You? Out of shape? What do you call ME then?
 Sei: Jill, probably. Haa... But please don't make such a big- haa... deal out of it. This would've only been the warm-up back in the boot camps.
 Jill: (And I maintain: Impressive and scary.)
 Jill: ...Ok then, care for a celebratory drink?
-[XS:seiface,]Sei: Sounds great, but just water for n- ...Is that milk?
-Jill: (Oh no.)
-Jill: Yes... it's milk. Real one at that. But it seems to have some... side-effects.
+[XS:seiface,]Sei: Sounds great, but just water for n- ...wait, is that milk on the counter?
+Jill: (Uh oh.)
+Jill: Yes... it's milk. Real milk at that. However it... might have some side-effects.
 Sei: Side-effects? Like causing flank pain? I don't think you have to worry, my torso's pretty tough. My instructor always told me-
 Jill: Not that kind of- No, it seems to make you grow cat ears.
 [XS:seiface,sorry]Sei: Cat ears? Like Stella?
@@ -59,35 +74,40 @@ Jill: So? How is it?
 [XS:seiface,sad]Sei: ...
 Jill: ...
 Jill: Hello, Earth to Sei? Sei something, say.
-[XS:seiface,sorry]Sei: Wh- what? Oh, sorry. This milk made some memories flood back in.
+[XS:seiface,sorry]Sei: Wh- what? Oh, sorry. I was just lost in thought. This milk made some memories flood back in.
 Jill: Judging from your expression, I'm guessing it wasn't the happy kind?
-[XS:seiface,]Sei: Yes and no. Some were happy, some were not. But all memories are welcome.
-Sei: Mostly just stuff from when Stella and I were kids. The usual adventures and fights.
-[XS:seiface,sad]Sei: But also some ...darker moments.
+[XS:seiface,]Sei: Yes and no. Some were happy, some were not. But they're my memories. And all my memories are welcome.
+Sei: ...
+Sei: It's mostly just stuff from when Stella and I were kids. The usual adventures and fights.
+[XS:seiface,sad]Sei: There's...some darker moments as well.
 Jill: ...
-[XS:seiface,]Sei: But it's those memories that make us who we are today. And thanks to this milk, I was able to relive those memories.
-Sei: This is my first glass in quite a while. Back then, we drank a lot of milk. Stella's parents made sure of that. I almost feel like-
+Jill: Do you need a minute?
+Sei: ...no. It's alright.
+[XS:seiface,]Sei: It's those memories that make us who we are today. And thanks to this milk, I was able to relive those memories.
+Sei: This is my first glass in quite a while. Back then, we drank a lot of milk. Stella's parents made sure of that. I almost feel like-[XS:seiface,pain]
 Jill: ...huh?
-[XS:seiface,pain]Sei: Ahaha-..... Oww... haha...ow
+Sei: Ahaha-...... Oww... haha...ow
 Jill: Hey, what's going on? ...BOSS, SEI'S IN TROUBLE!
 Dana: DID SHE DRINK THE MILK?
 Jill: YES, WHAT ARE YOU-
 [XS:seiface,sorry]Sei: Hwah? What's going on? ...Why do you look so surprised?
 Jill: (This can't be. The milk...)
 Sei: ...
-[XS:seiface,happy]Sei: I have cat ears! Jill, can you see them?
+Jill: (The way she's flinching when she touches them...)
+[XS:seiface,happy]Sei: ...I have cat ears? Wow! I have cat ears! Jill Jiill! Can you see them?!
 Jill: I... yes...
-Sei: Do they look as fluffy as they feel like?
+Sei: How do they look? Do they look as fluffy as they feel?
 Jill: They do look fluffy. Similar to Fore's.
-Sei: I can't wait to see Stella's reaction.
+Sei: Your cat, right? I can't wait to see Stella's reaction.
 
 
 *SeiNoCat1*
 Jill: Here you go.
 [XS:seiface,sad]Sei: This isn't milk...
 Jill: I just don't know the possible health-risks yet... sorry.
-[XS:seiface,sorry]Sei: I'm sorry, I shouldn't have asked so selfishly for something that may be dangerous.
-Jill: Don't worry about it. I'll ask Boss about it later.
+[XS:seiface,sorry]Sei: No no. I'm the one who's sorry. It's natural that you wouldn't be comfortable serving me something that might harm me.
+Sei: I'm glad you're looking out for me, at least.
+Jill: Don't worry about it. If you want, I can ask Boss about its safety later.
 [XS:seiface,sad]Sei: Okay...
 Sei: Hey, about Stella...
 
@@ -95,10 +115,12 @@ Sei: Hey, about Stella...
 *Main1*
 [XS:seiface,sad]Sei: ...
 Sei: She was always embarrassed about them, you know?
+Jill: Hm? About what?
+Sei: Her ears.
 Jill: Really? It feels more like her whole appearance is based on proudly presenting then.
 [XS:seiface,]Sei: Actually, it's the opposite. She's presenting them to distract from them. Make them seem like the most normal thing in the world.
 Sei: She hates to be seen as different from the others.
-Sei: And if everybody acknowledges them from the first moment, she's just a girl.
+Sei: And if everybody acknowledges them from the first moment, then she's just a girl.
 Jill: I didn't think there were still people that discriminate against Cat Boomers in Glitch City...
 Sei: There are a few, but it's not her appearance towards others she's afraid of.
 [XS:seiface,sad]Sei: I guess you could say it's also her parents' fault in a way. She told me that she was always presented as their 'cat boomer daughter'...
@@ -116,15 +138,17 @@ Sei: Glad to see you finally made it.
 Stella: You. Cat ears. Why?
 Sei: Oh right, these? They are because of the milk. Wanna feel how soft they are? But be careful, they're still sensitive.
 Stella: Jill. Help.
-Jill: Well, I can't tell you what I don't know, but Boss got some milk from a friend and it seems to make people grow cat ears when they drink it.
+Jill: I can't tell you what I don't know.
+Jill: What I can tell you is that Boss got some milk from a friend and it seems to make people grow cat ears when they drink it.
 Stella: And Sei just drank it? You idiot. Who knows what could've happened?
 Sei: I was wondering the same, so I decided to test it. Mystery solved!
-Jill: And besides, Boss drank it too, so we knew it wouldn't kill or harm her at least.
+Stella: You too, Jill! How could you've been so reckless?
+Jill: Boss drank it too, so we knew it wouldn't kill or harm her at least.
 [XS:stelface,]Stella: With how tough your boss is, I'd imagine she could drink poison and be fine.
 Jill: ...Touché.
-[XS:stelface,concern]Stella: Why would you do that? Grow a pair of cat ears?
+[XS:stelface,concern]Stella: Why would you do that? Why would you want to grow a pair of cat ears?
 [XS:seiface,]Sei: Because yours seem like fun. And to cheer you up.
-Stella: ...Cheer me up?
+Stella: ...cheer me up?
 Sei: You always seemed so unhappy about them.
 Sei: So I thought, if I got a pair too...
 [XS:seiface,sad]Sei: ...you wouldn't feel so alone anymore...
@@ -137,15 +161,15 @@ Stella: You would risk your well-being just to make me feel better about myself?
 [XS:seiface,]Sei: Is that so strange?
 Stella: There are less dangerous ways to go about it, at least!
 [XS:seiface,happy]Sei: But that's what best friends are for, right?
-[XS:stelface,surprise]Stella: ......
+[XS:stelface,surprise]Stella: .......
 [XS:stelface,sad]Stella: You...
 Stella: How could I ever feel alone with you around?
 Jill: (It never gets boring with those two.)
 Jill: Would you like to drink something, Stella?
 [XS:stelface,]Stella: Yeah... I think I'll have-
-[XS:seiface,]Sei: Hey Jill, what would happen if Stella drank the milk?
-Jill: I... actually have no idea. And I don't know if we should test it.
-Sei: What's the worst that could happen? Stella already has cat ears. And the milk is really tasty.
+[XS:seiface,]Sei: Wait, Stella. You should really try the milk! It's super tasty.
+Jill: I don't know about that... That might not be the best idea.
+Sei: But Stella already has cat ears. So there's not much else that could happen, right?
 Jill: (Can't say I'm not interested to see what would happen.)
 Stella: Well, you did win the race, so I do owe you a prize...
 Stella: Jill, you decide.
@@ -156,14 +180,13 @@ Jill: ...No problem.
 
 *SeiNoCat2*
 [XS:stelface,]Stella: So you got here before me, huh?
-[XS:seiface,]Sei: Yes, I've been here a little while already.
+[XS:seiface,]Sei: Yup, I've been here talking to Jill for a little while already.
 Stella: Not surprising, considering what happened on the way here.
 Jill: You mentioned an accident?
 [XS:stelface,concern]Stella: Yes. On the ride here the cab in front of us seemed to have malfunctioned.
 Stella: It drove into an intersection and collided with another car.
 [XS:seiface,sorry]Sei: Oh no, that sounds horrible! You should've called me.
-[XS:stelface,]Stella: There was no need.
-Stella: Thanks to you drilling all those first-aid techniques into my skull I was able to keep the inquired woman stable until help arrived.
+[XS:stelface,]Stella: No need. Thanks to you drilling all those first-aid techniques into my skull I was able to keep the injured woman stable until help arrived.
 [XS:stelface,happy]Stella: And I guess I must've done a good job because one of the ambulance workers called me "Doctor" when he took her.
 [XS:seiface,happy]Sei: See, I told you they would come in handy sometime.
 [XS:stelface,]Stella: And besides, you have to fully heal yourself before jumping into action again.
@@ -178,23 +201,30 @@ Jill: (I can guess what she'll ask next.)
 [XS:stelface,]Stella: I'll take a milk, please.
 Jill: Why yes, it is. Boss got it from- Huh?
 Stella: One milk, please.
-Jill: Are you sure? That milk seems to make people grow cat ears.
+Jill: You're not surprised we're serving milk here?
+Stella: Of course not.
+Stella: Why would I be? Milk is a component of many drinks.
+Jill: It is, ... but not in Glitch City.
+[XS:stelface,surprise]Stella: Huh? Really?
+[XS:stelface,]Stella: So why do you have a glass sitting on the counter right here?
+Jill: It's a long story... for one, that milk seems to make people grow cat ears.
 [XS:stelface,surprise]Stella: What? Grow cat ears? Are you making fun of me?
 Jill: No, I- When I came here, I saw Boss with cat ears. I was just as surprised as you.
 Jill: I don't know how or why, but unless Boss is playing an elaborate prank, that's a thing that might happen.
-[XS:stelface,concern]Stella: Sorry, I know you wouldn't....
+[XS:stelface,concern]Stella: Sorry, I know you wouldn't...
 [XS:stelface,]Stella: I've decided. I want a milk anyway.
 Jill: Are you sure?
 Stella: I already have cat ears, so there's not much that could happen. And looking at that glass made me thirsty for milk.
-Jill: (Maybe we should leave drinks out in the open more often.)
+Jill: (Maybe we should leave drinks out in the open more often. Seems to be good advertising.)
 Jill: Ok, one milk for Stella.
 
 
 *SeiAndStella*
 Jill: Here you go. One glass of milk.
 [XS:stelface,happy]Stella: So your curiosity got the better of you after all?
-Jill: (She noticed?!)
-[XS:stelface,]Stella: Well, it looks like milk... Let's see if it's as tasty as you say.
+Jill: ...
+[XS:stelface,]Stella: Stay quiet all you like but your wise bartender facade doesn't hide your intentions, Jill.
+Stella: Well, it looks like milk... Let's see if it's as tasty as you say.
 Stella: ......
 Stella: I see. So this is real milk after all. It's not something I get to enjoy often.
 Jill: Do you like it?
@@ -207,8 +237,9 @@ Jill: Do you like it?
 *OnlyStella*
 Jill: Here you go. One glass of milk.
 [XS:stelface,happy]Stella: So your curiosity got the better of you after all?
-Jill: (She noticed?!)
-[XS:stelface,]Stella: Well, it looks like milk... Let's see if it tastes like it too.
+Jill: ...
+[XS:stelface,]Stella: Stay quiet all you like but your wise bartender facade doesn't hide your intentions, Jill.
+Stella: Well, it looks like milk... Let's see if it tastes like it too.
 Stella: ......
 Stella: I see. So this is real milk after all. It's not something I get to enjoy often.
 Jill: Do you like it?
@@ -227,28 +258,30 @@ Stella: Huff... The pain seems to have subsided.
 Jill: (Did she... get a second pair of ears?)
 [XS:seiface,happy]Sei: Now you're twice as cute and fluffy!
 Stella: What do you- ...
-[XS:stelface,]Stella: ......
-[XS:stelface,concern]Stella: Please tell me I'm imagining things, but it feels as if I have two pairs of cat ears on my head.
-Jill: That's.... what it looks like to me.
+[XS:stelface,]Stella: ......[XS:stelface,concern]
+Jill: (Her expression changed immediately when she touched her... new pair.)
+Stella: Please tell me I'm imagining things, but it feels as if I have two pairs of cat ears on my head.
+Jill: That's... what it looks like to me.
 Stella: This... can't be.
 [XS:seiface,sorry]Sei: Hey, are you okay? You look like you're going to faint.
 Jill: Here, take this water and try to calm down. Deep breaths.
 [XS:stelface,sad]Stella: Huff..... huff..... huff...
 Jill: Better?
-[XS:stelface,concern]Stella: ....A bit. Thank you.
+[XS:stelface,concern]Stella: ...a bit. Thank you.
 Jill: Don't mention it.
 Jill: Still, it seems like you have a smaller pair of cat ears in addition to your usual ones now.
+Jill: How do you feel?
 [XS:stelface,baka]Stella: ...I... can't be seen like this.
 Sei: I'm so sorry. I shouldn't have asked you to drink the milk. I didn't mean to...
-[XS:stelface,concern]Stella: It's not your fault. No one could have known.
+Stella: It's not your fault. No one could have known.
 [XS:stelface,]Stella: ...
 Stella: Jill, get me another milk.
 Jill: Hwha-?
 Stella: If one milk gets me a new pair, a second one might reverse the effect.
-[XS:seiface,sorry]Sei: Are you sure?
-Jill: Yeah... What if you just grow another pair?
-[XS:stelface,baka]Stella: I know. But I have to try regardless. It can't get much worse...
-[XS:stelface,]Stella: Jill, if you would.
+[XS:seiface,sorry]Sei: Are you sure? We were wrong before.
+Jill: Yeah... what if you just grow another pair?
+[XS:stelface,baka]Stella: I'm aware. But I have to try regardless. It can't get much worse...
+Stella: Jill, if you would.
 Jill: ...Sure.
 
 
@@ -259,9 +292,9 @@ Stella: ...
 [XS:seiface,sorry]Sei: And? How do you feel?
 Stella: Not much different yet. It seems to take a while until the milk sets in.
 Sei: Oh yeah.
-Sei: .....
-Stella: .....
-Jill: .....
+Sei: ......
+Stella: ......
+Jill: ......
 Jill: (The atmosphere suddenly became so thick. We're all just... waiting.)
 [XS:stelface,sad]Stella: Hnnrg.... rrrrng...
 Sei: I got you!
@@ -287,8 +320,8 @@ Jill: ...You're right. Your roles are more or less reversed now.
 [XS:stelface,surprise]Stella: It's true. What a strange turn of events.
 Sei: I'm the cat girl meow.
 [XS:stelface,baka]Stella: Don't... No cat puns.
-Sei: Hehe. You look better already, Stella. Don't be so gloomy.
-[XS:stelface,surprise]Jill: It's hard to sulk with Sei around. I had that experience first-hand.
+Sei: Hehe. You look better already, Stella.[XS:stelface,surprise] Don't be so gloomy.
+Jill: It's hard to sulk with Sei around. I had that experience first-hand.
 [XS:stelface,]Stella: Fine, fine. I'm okay. It's just-
 [XS:stelface,concern]Stella: There were times when I wished my ears were gone, but... they're still a part of me.
 Stella: Now that I got rid of them... I kinda miss them.[XS:seiface,]
@@ -297,7 +330,7 @@ Jill: If you want, I can serve you another milk.
 Stella: ...No thanks. There's too many uncertainties right now. Besides, the milk's effect could be only temporary.
 Jill: That's fair. I need to ask Boss about it later.
 [XS:stelface,happy]Stella: Thank you.
-Stella: And I think for now I should enjoy the role reversal. I'll worry about what comes next later.
+Stella: For now, I think I should enjoy the role reversal. I'll worry about what comes next later.
 [XS:seiface,happy]Sei: Yay! I'm the soft and fluffy one now.
 Stella: The ears maybe. I'm not so sure about the rest.
 [XS:seiface,sorry]Sei: Wh- What do you mean by that?
@@ -313,8 +346,8 @@ Jill: (Seems Stella was able to recover from the initial shock after all. Good f
 [XS:seiface,]Sei: Are you sure? They have this little bounce when you walk.
 Sei: Hmm... what I mean is, even without your ears, there's still soft and fluffy things on you.
 Sei: Because for me, you're always soft and fluffy! Because you're Stella!
-[XS:stelface,surprise]Jill: Yeah. Well, not exactly what she said, but it'll take a while for us to get used to it. Even then, you're still the same Stella as always.
-[XS:stelface,baka]Stella: ...I know. It's just... I don't know...
+[XS:stelface,]Jill: Yeah. Well, not exactly what she said, but it'll take a while for us to get used to it. Even then, you're still the same Stella as always.
+Stella: ...I know. It's just... I don't know...
 [XS:stelface,concern]Stella: There were times when I wished my ears to be gone, but... they're still a part of me.
 Stella: Now that I got rid of them... I kinda miss them.[XS:seiface,]
 [XS:stelface,]Stella: Don't get me wrong. There's no way I was going to keep two pairs, but if I were to decide... I think I'd want them back.
@@ -328,7 +361,7 @@ Jill: (I'm sure you'll still stand out with just your drills ...)
 Jill: Huh? What, me?
 Stella: I'm pretty sure Jill still has work to do.
 [XS:seiface,sorry]Sei: Oh, right. Sorry.
-Jill: Don't worry about me. I'm fine. But you two have fun.
+Jill: Don't worry about me. I'm fine. You two go have enough fun for the three of us.
 [XS:seiface,happy]Stella: Ok, but you'll have to join us next time. No buts!
 Jill: Yeah, yeah. If you tell me sooner than the exact moment it starts.
 [XS:stelface,]Sei: Oh, Stella. I know where we can go first.
@@ -377,8 +410,9 @@ Jill: Granted, the person that sent us the milk is a cat boomer, but with the ex
 [XS:stelface,concern]Stella: So you're saying anyone could become a cat boomer with this milk...
 [XS:seiface,happy]Sei: That would be so cute. [XS:seiface,]
 [XS:stelface,surprise]Stella: Cute? These ears are nothing but trouble. Just getting my hair done every morning is troublesome.
+Jill: (Pretty sure that's not your ears' fault.)
 [XS:stelface,baka]Stella: ...
-[XS:stelface,baka]Stella: ...why are you exchanging glances?
+Stella: ...why are you exchanging glances?
 [XS:stelface,]Stella: Anyway, I've learned to live with them, but they are more a hindrance than anything else.
 [XS:stelface,concern]Stella: There's a lot of people just staring at them mid-conversation. Of course I know they don't mean anything by it...
 Stella: But every time it happens, I can't help but feel like I'm getting reduced to these ears.
@@ -387,7 +421,7 @@ Stella: Everywhere I go I'm always treated differently. It's hard to notice, but
 [XS:stelface,]Stella: And I get it. Cat Boomers are pretty rare, so people want to ask questions.
 [XS:stelface,concern]Stella: But they make me feel more like a walking attraction instead of a girl...
 [XS:seiface,happy]Sei: But now I have cat ears too. Now we're both different together, right?
-[XS:stelface,happy]Stella: ...Maybe you're right. Now they won't pester just me alone anymore.
+[XS:stelface,surprise]Stella: ...Maybe you're right. [XS:stelface,happy]Now they won't pester just me alone anymore.
 Sei: And there's good things about them too. They are soft and they are fluffy.
 Stella: On good days they are, yes.
 Stella: And seeing them on you makes me realize why people like to stare. They're hypnotizing!
@@ -423,13 +457,13 @@ Stella: I get your point, but this seems more like a prank than anything else.
 Jill: I can't blame you for thinking that. You haven't seen Boss yet. Let me just...
 [XS:seiface,]Jill: BOSS! THE NEWS HERE SAYS THAT IMMORTAL WRESTLER IS STEPPING BACK INTO THE RING!
 Dana: WHAT!? I THOUGHT HE STEPPED DOWN FOR GOOD! I NEED TO SEE THIS!!
-[XS:danaface,intensify]Dana: THAT WEASEL, he told me he was done himse-[XS:stelface,surprise]
+[XS:danaface,intensify][XS:stelface,surprise]Dana: THAT WEASEL, he told me he was done himse-
 [XS:danaface,worry]Dana: Hey, that isn't wrestling.
 Jill: I needed to get you out of your office, this was the fastest way.
 Dana: Clever. But how would you even know of Immortal Sugimoto?
 Jill: I don't.
 Jill: I just thought 'Immortal' sounds like a good title for a wrestler.
-Dana: ....Clever. I should-
+Dana: ...Clever. I should-
 Stella: You. Cat ears. Why?
 [XS:danaface,eee]Dana: Is... everything okay?
 Jill: Told ya they look real.
@@ -449,7 +483,7 @@ Jill: There's only one thing that would grow and you know it.
 [XS:danaface,]Danya: I don't think you realize how good you would look with cat ears. And just imagine how Fore would react.
 Jill: (He would probably say "What, did you believe I'm your son so strongly that you sprouted a pair of cat ears yourself?")
 Danya: You just imagined what he would say, right?
-Jill: (Shit! I'm too easy to read.)
+Jill: (Damn! I'm too easy to read.)
 Danya: Anyway, I'll call up Iris later. Right now I need to make some more photos of cat poses for my sis.
 [XS:danaface,worry]Danya: And no peeking! Laters!
 Jill: Why did you look specifically at me when saying that?!
@@ -465,7 +499,7 @@ Jill: What does it concern you that there's milk that makes you grow cat ears?
 Stella: In a way, they are like scars. Proof that it was only thanks to complicated medical procedures that I was able to live at all.
 [XS:seiface,sad]Sei: Stella...
 Stella: And now you just drink a glass of milk to get them... It feels... wrong.
-[XS:stelface,sad][XS:seiface,]Stella: Like... I don't know. All I ever wanted was to not be 'the cat boomer' anymore.
+[XS:stelface,sad]Stella: Like... I don't know. All I ever wanted was to not be 'the cat boomer' anymore.
 Stella: But, if cat ears are just a thing you can have now, what does that make me?
 [XS:stelface,baka]Stella: I always thought I just wanted to be normal... But now I'm afraid of it.
 Jill: You feel like you want them gone, but at the same time you can't live without them... this feels familiar.
@@ -510,7 +544,7 @@ Jill: Maaaybe. By the way, where were you?
 [XS:gilface,]Gillian: Boss sent me to send a gift back to her friend in Saint Alicia.
 Jill: Iris? Do you know what she sent?
 [XS:gilface,cods]Gillian: She never told me, but when I went to refill the drink dispenser when I came in today, the Karmotrine was awfully low.
-Jill: .....
+Jill: ......
 [XS:gilface,fucked]Gillian: And I mean surprisingly low even considering your... generous use of it.
 [XS:gilface,surprise]Jill: Are you implying that I use more Karomotrine than necessary?
 Jill: These drinks are expensive and I want people to feel like they got their money's worth, Gillian!
@@ -519,7 +553,7 @@ Gillian: Woah, calm down. I'm just joking. No need to break character.
 Jill: *ahem* Right. I'm just a bit... on edge.
 [XS:gilface,]Gillian: I can see that... Anything happen while I was gone?
 Jill: Well, a bit. I just have a hard time dealing with the existence of that milk.
-Gillian: Not surprising. I see you got yourself a glass too. You interesed in getting a extra pair of ears then?
+Gillian: Not surprising. I see you got yourself a glass too. You interesed in getting an extra pair of ears then?
 
 
 *Interested*
@@ -529,7 +563,7 @@ Gillian: I'm just surprised you actually did. I didn't take you for the kind tha
 Jill: I don't, normally. I never got more than a piercing or two. But the ears just seem... fun.
 Jill: And besides, if there's a milk to make them appear, there's a way to get them removed as well.
 Jill: Or the effects might just be temporary in the first place.
-[XS:gilface,]Gillian: I sure hope so... So, are you gonna drink it?
+[XS:gilface,]Gillian: I sure hope so... Are you gonna drink it?
 Jill: Not yet. It's still a big decision.
 Gillian: Fair enough.
 Gillian: Well, I'll get to wiping the tables then.
@@ -590,8 +624,9 @@ Jill: (Did she? No...)
 Jill: Is that- Are you playing canned laughter from your mouth?
 Dorothy: Yep. And I can play much more!
 Jill: I know I'll regret asking, but what else do you have?
-Dorothy: About 10 Terabytes of "work sounds".
-Jill: I should've known. No, I KNEW. And why are you recording your "work" "sounds"?
+Dorothy: About 10 terabytes of recorded "work sounds".
+Jill: I should've known. No, I KNEW. Why are you recording your "work" "sounds"? What do you even need them for?
+Jill: (No way she has 10 terabytes... does she?)
 [XS:doroface,smug]Dorothy: Ohoho, I didn't think you were so saucy, Honey.
 Dorothy: But well, if it's for you... I guess I might be able to give you some recordings. For a free drink.
 Jill: What?! No, I'm not that desperate.
@@ -870,8 +905,7 @@ Dorothy: But the most well-known ones are Tsundere, Kuudere and Yandere.
 Jill: What? You made that up! You're more of a...
 Jill: You're a DOROdere! Heh.
 [XS:doroface,smug]Dorothy: Dorodere are characters that have psychopathic tendencies, Honey.
-Jill: ...of course they are.
-Jill: Is there a Dere for literally everything?!
+Jill: ...of course they are. Is there a Dere for literally everything?!
 Dorothy: I told you, there's loads.
 Jill: ...yes, but this is getting ridiculous.
 [XS:doroface,think]Dorothy: But that reminds me of that time I was asked to roleplay as a Yandere.
@@ -1139,5 +1173,258 @@ Jill: -!!
 [XS:anface,happy]Anna: And my being here will only make your day even better.
 Jill: (She really is the last person I needed to see today.)
 Anna: Then you're in luck, Jo. I AM the last person for today.
+
+
+*Main4*
+[XS:anface,away]Anna: And could you please not talk to me in the third person? I'm right here.
+Jill: (Oh. Right. Mind reading.)
+[XS:anface,]Anna: As I've told you already: Normal reading. It's honestly the only way to understand you.
+Anna: You're just talking in bleeps and bloops after all.
+Jill: (The longer you talk the less sense you make. Bleeps and bloops?)
+[XS:anface,smug]Anna: Don't think about it. I'm just messing with you.
+Jill: (Riight. You know, every time I... "talk" with you I get the impression that you're keeping something from me.)
+[XS:anface,happy]Anna: A lady has to have her secrets.
+Anna: And this particular one is one I intend to take to the grave.
+Jill: ...
+[XS:anface,sad]Anna: Poor choice of words.
+Jill: (Is there a reason for you to be so cryptic besides teasing me?)
+[XS:anface,smugsmile]Anna: Maybe, maybe not. Would you even believe me if I gave you a concrete answer?
+Jill: (...probably not.)
+[XS:anface,happy]Anna: Great we cleared that up. Now, for the reason I'm here.
+Anna: I want to order a glass of milk.
+Jill: (Very funny. You know I won't serve-)
+Jill: (How do you know of the milk? The glass is gone.)
+[XS:anface,smugsmile]Anna: I have lacto-vision.
+Jill: (...)
+[XS:anface,]Anna: So is that a no, or...
+Jill: No. I mean yes. I mean I won't serve you anything.
+Anna: Don't you want to see me with cat ears?
+Jill: (Even if I wanted, you wouldn't even be able to drink the milk and you know it.)
+Jill: (And how do you even know the milk makes you grow cat ears?)
+Jill: (Wait, let me guess. Cat-o-vision?)
+[XS:anface,away]Anna: I wanted to say Schrödinger's Gaze, but yours is okay too.
+[XS:anface,smugsmile]Anna: If a bit uncreative.
+[XS:anface,awayhalf]Anna: But I see. I guess I'll have to take matters into my own hands.
+[XS:anface,smug]Jill: (What do you-)
+[XS:anface,smugsmile]Jill: -oh.
+Jill: How did you do that!?
+Anna: ...
+Jill: (Fuck.)
+Gillinyan: Huh? Do what?
+Jill: N-nothing! Just something on TV!
+Gillinyan: ...okay then!
+Jill: *sigh*
+[XS:anface,happy]Anna: Wow, these ears are really soft and fluffy. I think I'll keep them.
+Jill: (Let's try this again: How did you make cat ears appear on your head?)
+[XS:anface,smugsmile]Anna: Will you believe me when I tell you?
+Jill: (...when you tell me the truth, yes.)
+[XS:anface,away]Anna: Exploiting the code.
+Jill: ???
+
+
+*CrackInReality*
+[XS:anface,]Anna: Imagine it like... a crack in reality. That makes it possible for me to "do stuff".
+Jill: (Do... stuff?)
+[XS:anface,sad]Anna: I kind of... don't belong here. I don't know what I am and why, but something strange happened when I died.
+Anna: Somehow dead and alive at once. I'm like a glitch, bound to this city.
+[XS:anface,smugsmile]Anna: Fitting, isn't it.
+[XS:anface,away]Anna: And for some reason, since I'm not really alive but also not really dead either...
+Anna: I seem to be able to manipulate reality in some way.
+Anna: It's like a computer program that I somehow have permissions for.
+[XS:anface,]Anna: And since you are the main character, I guess you must have viewing permissions for me...
+Jill: (Me, the main character? You mentioned that once already... But what...)
+[XS:anface,away]Anna: It's a bit hard to explain, but that should do as an answer for now.
+
+
+*Main5*
+[XS:anface,]Anna: So, do you believe me?
+Jill: (I... don't know. I have no idea what you're talking about. But I don't think you're lying.)
+[XS:anface,happy]Anna: You're too easy, Jo~
+Jill: (What? That was- I'm so confused.)
+Anna: Well, now that I got what I came for...
+[XS:anface,]Anna: How was your day, Jo?
+Jill: (Huh? Oh. It was... strange.)
+Jill: (The strangest in recent memory. Thanks to that milk.)
+
+
+*CatQuestions*
+Jill: (But all-in-all, it was a good day.)
+Jill: (Seeing the others with cat ears was fun and getting them myself was great too.)
+Jill: (Though I still hope that they aren't permanent.)
+Anna: Why? Wouldn't you want to have them permanently?
+Jill: (Not when I'm getting pressured into it.)
+Jill: (I'm not one for spontaneous decisions.)
+[XS:anface,happy]Anna: In that case, you're in luck. They aren't.
+Jill: (How do you-)
+Jill: (Nope. I guess I'll just believe you.)
+Anna: You're learning.
+
+
+*NotInterestedQuestions*
+Jill: (The cat ears were fun, I can't deny that.)
+Jill: (But all things considered, they also did some heavy damage.)
+Jill: (I almost wonder if this is just how things are or if I could've changed anything.)
+[XS:anface,smug]Anna: Most people are only disappointed when you deny them their orders.
+Anna: Like me.
+Jill: (Don't you guilt-trip me after what you pulled on your first visit.)
+[XS:anface,]Anna: Okay, okay.
+[XS:anface,sad]Anna: Yeesh. Way to hold a grudge.
+[XS:anface,]Anna: So would you want the milk to be gone entirely?
+Jill: (Gone? Hmm...)
+Jill: (It should not be us to handle it at least.)
+Jill: (This might be a city where you can just buy new cyber-eyes from vending machines, but we're just some random dive bar.)
+Jill: (It's my job to serve people substances that limit their critical thinking. Not the best conditions.)
+Jill: (I just don't be the one to make the final decision on who gets to have cat ears and who doesn't.)
+Anna: Wouldn't impulse purchases help the bottom line though?
+Jill: (Yes. In the short term. Imagine waking up with cat ears and no idea what happened the night before though.)
+[XS:anface,sad]Anna: ...
+Anna: I take it back.
+
+
+*InterestedQuestions*
+Jill: (Not in a bad way, but still.)
+Jill: (While everything worked out in the end, I can't help but feel like this milk is too... powerful, for lack of a better term.)
+Jill: (Like one misstep might've lead to disaster...)
+[XS:anface,happy]Anna: But it didn't and that's worth something, at least.
+[XS:anface,]Anna: And you? Not interested in cat ears?
+Jill: (I'd be lying if I said I wasn't, but...)
+Jill: (It's too big a decision to make on the spot.)
+[XS:anface,smug]Anna: That sounds painfully like something you'd say.
+Jill: (Thank... you? Or was that an insult?)
+Anna: It was me reading you like a book even more than normal.
+[XS:anface,]Anna: What if I told you that today is your only chance?
+Jill: (What do you mean? Sure, it's organic milk, but the bar dispenser should keep it fresh for a good while.)
+[XS:anface,away]Anna: Look, how about this. You drink the milk so that I can see you with cat ears and I'll tell you why the day has been so strange.
+Jill: (Why the day has been so strange? ...it HAS been strange hasn't it?)
+[XS:anface,]Anna: You might even say it feels disconnected from your usual experience here.
+Jill: ...hmmm
+Jill: *sigh*
+Jill: (Fine, I'll do it.)
+[XS:anface,smugsmile]Anna: I knew you'd come around.
+[XS:anface,happy]Anna: Oh! Speaking of which! Since I'll be the one serving you, you should come to this side of the counter.
+Jill: Oh no. No, no, no. I'll not do that again.
+[XS:anface,smug]Anna: Overruled.
+Jill: HUH?! What did just-
+Anna: Shush, Jo. They'll hear.
+Jill: ...
+[XS:jillface,sad]Jill: ...
+Jill: (DID WE JUST SWITCH PLACES?!)
+Anna: Yes.
+[XS:jillface,uh]Jill: (I think I felt all my molecules get rearranged just now...)
+Anna: Oh, zip it. It'll all be worth it in the end, trust me.
+Jill: (...I want to order.)
+Anna: Milk, right?
+Jill: (No... I want enough alcohol to blackout and forget the whole day, please.)
+Anna: Sorry, we only serve milk today.
+Anna: So, what can I serve you?
+Jill: (....milk, please.)
+Anna: It'll be my pleasure!
+
+
+*JillAlcohol*
+[XS:jillface,]Anna: Uh... it has the alcohol you wanted.
+Jill: (Seems you serve non-lactose-based drinks as well.)
+Anna: Wow, role reversal. Seems now I have to be the awkward bartender.
+[XS:jillface,sad]Jill: (Awkward? Look, do you need help?)
+Anna: A little. Maybe this thing is out of milk.
+[XS:jillface,]Jill: (It's not. Okay, you have to go to the bottled drinks tab and-)
+Anna: GOT IT! Easy Peazy.
+Anna: Here you go, Jo.
+Jill: (...thank you.)
+
+
+*JillWrong*
+[XS:jillface,]Anna: Uh... it's a drink... I think.
+Jill: (Seems you serve non-lactose-based drinks as well.)
+Anna: Wow, role reversal. Seems now I have to be the awkward bartender.
+[XS:jillface,sad]Jill: (Awkward? Look, do you need help?)
+Anna: A little. Maybe this thing is out of milk.
+[XS:jillface,]Jill: (It's not. Okay, you have to go to the bottled drinks tab and-)
+Anna: GOT IT! Easy Peazy.
+Anna: Here you go, Jo.
+Jill: (...thank you.)
+
+
+*JillMilk*
+[XS:jillface,surprise]Anna: And here you go.
+Jill: (Wow... you actually served me milk.)
+Anna: Don't underestimate me, Jo. I know the basics of taekwondo.
+[XS:jillface,sad]Jill: (Did you fight with the bar dispenser?)
+[XS:jillface,smile]Jill: (Anyway, thank you, Anna.)
+
+
+*JillCatify2*
+Anna: No problem. Now, bottoms up!
+[XS:jillface,]Jill: ...
+[XS:jillface,surprise]Jill: (Wow. This is good milk.)
+Anna: I wouldn't know. But glad you like it.
+[XS:jillface,]Jill: ...
+Anna: What's wrong?
+Jill: (...you'll hold up your end of the bargain, right?)
+Jill: (Telling me why this day is so strange.)
+Anna: Huh? You think I'll bail on you?
+Anna: It's more likely that I won't leave your side once you have cat ears.
+[XS:jillface,baka]Jill: (That would be even worse.)
+Anna: You hurt me, Jo.[XS:jillface,sad] Hey, why do YOU look so hurt?
+Anna: Oh! Did the milk kick in?
+Jill: Irrgh...... Yesszzzzz-......
+Jill: FFFFFUUUU-......
+Jill: Urgh... that, certainly, was an experience I won't forget.
+[XS:jillface,surprise]Jill: Your... look tells me it worked?
+Anna: Holy shit. You look stunning. Stunninger.
+Anna: And mind your voice.
+[XS:jillface,]Jill: (So this is what they feel like. Can't say they feel bad.)
+[XS:jillface,smile]Jill: (Thank you for basically forcing me to drink the milk.)
+Anna: Forcing me, she says. I didn't even touch you.
+Anna: But now I feel like petting you.
+[XS:jillface,uh]Jill: (I'd prefer you didn't.)
+[XS:jillface,]Jill: (But you can start telling me what's up with this day.)
+Jill: (You called it "disconnected?")
+Anna: ...answer me this: Where are we?
+[XS:jillface,surprise]Jill: Uh- hwah?
+[XS:jillface,uh]Jill: (Where... we are? What are you playing at?)
+Anna: Let me tell you this much; We're not in the bar.
+Jill: (...where else would we be?)
+Anna: Don't you think it's a bit strange?
+Anna: You don't remember getting here, have never taken a break, and started serving supernatural milk that defies all logic.
+[XS:jillface,surprise]Jill: (How do you-)
+Anna: How do I, indeed. I shouldn't know most of these things. Yet I do.
+[XS:jillface,baka]Jill: ...
+Anna: If we take everything into consideration now and multiply it with you never having left your apartment, then we're left with...
+[XS:jillface,surprise]Jill: -!!
+Jill: (This is all...)
+Jill: A dream?
+Anna: So you think so too.
+[XS:jillface,baka]Jill: In that case, I guess I can talk normally with you.
+Jill: But... what does that mean? That the whole day today was fake?
+Anna: In a way, yes. When you wake up, nobody will know what happened.
+[XS:jillface,think]Jill: ...
+Jill: That's fine.
+[XS:jillface,smile]Jill: It FELT real. It doesn't need to BE real.
+Jill: It's kinda like talking to you.
+Anna: Me?
+Jill: Yeah. Just because I'm the only one to see and hear you in the bar doesn't mean you're fake, right?
+Anna: I'm not fake, huh?...
+Anna: You're really making it easy for you, y'know that?
+Jill: It IS easy. I don't need any proof to have something FEEL real.
+Jill: And today... well, let's say I felt a lot of things.
+Anna: Yep, you've gone crazy. Calling a dream real.
+Jill: Maybe.
+Anna: And what does this dream even say about you?
+[XS:jillface,uh]Jill: That... I like cat ears?
+Anna: More like that you're absolutely obsessed with them.
+Jill: Who isn't?
+Anna: Most people, Jo. You might be the only one.
+[XS:jillface,surprise]Jill: Excuse me for loving my son.
+Anna: Well? You gonna call it a day here?
+[XS:jillface,]Jill: ...
+Jill: I think so.
+Anna: Don't let me keep you.
+Jill: ...
+Jill: BOSS, I'M DONE FOR THE DAY!
+Danya: OKAY. GOOD WORK, JILL.
+[XS:jillface,smile]Jill: Goodbye.
+Anna: See you on the other side, Julinyanne.
+[XS:jillface,surprise]Julinyanne: Hey, wait. What did you just say? Did you just call me JuliNYANne?! Anwser me, dammit!
 
 
