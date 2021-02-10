@@ -121,9 +121,9 @@ Jill: Really? It feels more like her whole appearance is based on proudly presen
 [XS:seiface,]Sei: Actually, it's the opposite. She's presenting them to distract from them. Make them seem like the most normal thing in the world.
 Sei: She hates to be seen as different from the others.
 Sei: And if everybody acknowledges them from the first moment, then she's just a girl.
-Jill: I didn't think there were still people that discriminate against cat boomers in Glitch City...
+Jill: I didn't think there were still people that discriminate against Cat Boomers in Glitch City...
 Sei: There are a few, but it's not her appearance towards others she's afraid of.
-[XS:seiface,sad]Sei: I guess you could say it's also her parents' fault in a way. She told me that she was always presented as their 'cat boomer daughter'...
+[XS:seiface,sad]Sei: I guess you could say it's also her parents' fault in a way. She told me that she was always presented as their 'Cat Boomer daughter'...
 Sei: She must've felt like it was her whole identity.
 Jill: And that's why she started dressing so flashy?
 [XS:seiface,]Sei: Yeah, it was a few years ago, but-
@@ -204,7 +204,7 @@ Stella: One milk, please.
 Jill: You're not surprised we're serving milk here?
 Stella: Of course not.
 Stella: Why would I be? Milk is a component of many drinks.
-Jill: It is, ... but not in Glitch City.
+Jill: It is ... but not in Glitch City.
 [XS:stelface,surprise]Stella: Huh? Really?
 [XS:stelface,]Stella: So why do you have a glass sitting on the counter right here?
 Jill: It's a long story... for one, that milk seems to make people grow cat ears.
@@ -406,9 +406,9 @@ Jill: Oh, I thought you should try something new.
 *OnlySei*
 Stella: Was there a reason you didn't give me a milk? It seemed like you were really interested in finding out what would happen.
 Jill: (She noticed?!)
-Jill: Well, I was, but it's a bit too dangerous. We know it worked on Boss and Sei, but who knows what might happen to a cat boomer?
-Jill: Granted, the person that sent us the milk is a cat boomer, but with the existence of this milk, that might not even be true in the first place.
-[XS:stelface,concern]Stella: So you're saying anyone could become a cat boomer with this milk...
+Jill: Well, I was, but it's a bit too dangerous. We know it worked on Boss and Sei, but who knows what might happen to a Cat Boomer?
+Jill: Granted, the person that sent us the milk is a Cat Boomer, but with the existence of this milk, that might not even be true in the first place.
+[XS:stelface,concern]Stella: So you're saying anyone could become a Cat Boomer with this milk...
 [XS:seiface,happy]Sei: That would be so cute. [XS:seiface,]
 [XS:stelface,surprise]Stella: Cute? These ears are nothing but trouble. Just getting my hair done every morning is troublesome.
 Jill: (Pretty sure that's not your ears' fault.)
@@ -417,9 +417,9 @@ Stella: ...why are you exchanging glances?
 [XS:stelface,]Stella: Anyway, I've learned to live with them, but they are more a hindrance than anything else.
 [XS:stelface,concern]Stella: There's a lot of people just staring at them mid-conversation. Of course I know they don't mean anything by it...
 Stella: But every time it happens, I can't help but feel like I'm getting reduced to these ears.
-Jill: (...I can't deny that I'm guilty of that.)
+Jill: (My... eyes tend to drift too, now that I think about it.)
 Stella: Everywhere I go I'm always treated differently. It's hard to notice, but with time you are able to read the faces of those people.
-[XS:stelface,]Stella: And I get it. cat boomers are pretty rare, so people want to ask questions.
+[XS:stelface,]Stella: And I get it. Cat Boomers are pretty rare, so people want to ask questions.
 [XS:stelface,concern]Stella: But they make me feel more like a walking attraction instead of a girl...
 [XS:seiface,happy]Sei: But now I have cat ears too. Now we're both different together, right?
 [XS:stelface,surprise]Stella: ...Maybe you're right. [XS:stelface,happy]Now they won't pester just me alone anymore.
@@ -500,7 +500,7 @@ Jill: What does it concern you that there's milk that makes you grow cat ears?
 Stella: In a way, they are like scars. Proof that it was only thanks to complicated medical procedures that I was able to live at all.
 [XS:seiface,sad]Sei: Stella...
 Stella: And now you just drink a glass of milk to get them... It feels... wrong.
-[XS:stelface,sad]Stella: Like... I don't know. All I ever wanted was to not be 'the cat boomer' anymore.
+[XS:stelface,sad]Stella: Like... I don't know. All I ever wanted was to not be 'the Cat Boomer' anymore.
 Stella: But, if cat ears are just a thing you can have now, what does that make me?
 [XS:stelface,baka]Stella: I always thought I just wanted to be normal... But now I'm afraid of it.
 Jill: You feel like you want them gone, but at the same time you can't live without them... this feels familiar.
@@ -541,7 +541,7 @@ Jill: I guessed as much. How do you feel?
 [XS:gilface,]Gillian: Not much different, to be honest. Just all that subconscious movement on my head is throwing me off a little.
 Jill: You... look surprisingly good with them. Very cute.
 [XS:gilface,fucked]Gillian: I'll take the compliment, even if I know you just want to rub it in.
-Jill: Maaaybe. By the way, where were you?
+Jill: You must be hearing things. By the way, where were you?
 [XS:gilface,]Gillian: Boss sent me to send a gift back to her friend in Saint Alicia.
 Jill: Iris? Do you know what she sent?
 [XS:gilface,cods]Gillian: She never told me, but when I went to refill the drink dispenser when I came in today, the Karmotrine was awfully low.
@@ -576,7 +576,7 @@ Gillian: Does it work?
 Jill: You'd be surprised. But anyway, I don't think I can justify such a big change for something so... useless.
 Jill: They are cute, yes, but not much more. And besides, it feels wrong to get something that's normally a leftover of a medical treatment.
 [XS.gilface,surprise]Gillian: You put alot of thought into it, huh? Well, I can't disagree on that account.
-Jill: I just got to see it from a cat boomers perspective is all.
+Jill: I just got to see it from a Cat Boomers perspective is all.
 Jill: But even if that weren't the case, I don't really care about aesthetic mods in the first place.
 [XS:gilface,]Gillian: Heh, that sounds very much like you.
 Gillian: Well, I'll get to wiping the tables then.
@@ -603,7 +603,7 @@ Jill: Huh, really? ...yeah, ok. Seems like a thing she would say. She's really h
 
 
 *Main3*
-Gillinyan: I guess. At least you two are enjoying yourself.
+Gillinyan: I guess. At least you two are enjoying yourselves.
 Jill: Hey, don't lie. I can see that slight smirk. You're an open book Gil.
 Danya: Hey, Gillinyan. Get to work! No time for cat naps!
 [XS:gilface,cods]Gillinyan: Hm. Maybe the absurdity of the situation is getting to me after all.
@@ -643,7 +643,7 @@ Jill: Here you go.
 Jill: Since today. And don't act like you didn't steal glances at the glass since you got here.
 [XS:doroface,sad]Dorothy: ...You know too much...
 Jill: This isn't normal milk though. Drinking it makes you grow cat ears, it seems.
-[XS:doroface,smug]Dorothy: What, like a cat boomer? This milk? Honey, are you pulling my leg?
+[XS:doroface,smug]Dorothy: What, like a Cat Boomer? This milk? Honey, are you pulling my leg?
 Jill: You wish. Watch this: HEY GILLINYAN!
 Gillinyan: Don't call me that!
 Jill: No promises. But can you come over for a second?
@@ -652,7 +652,7 @@ Dorothy: ......
 [XS:gilface,fucked]Gillinyan: Don't tell me...
 Dorothy: Woah. He really has cat ears.
 Jill: Told ya so.
-Gillinyan: So, did you need me for anything besides showing off those ears?
+Gillinyan: So, did you need me for anything besides showing off these ears?
 Jill: Nope. You can go now, John.
 [XS:gilface,cods]Gillinyan: That the day comes where I'm glad to hear that nickname...
 Jill: So, convinced?
@@ -662,7 +662,7 @@ Dorothy: Several times over.
 *DoroCatify*
 [XS:doroface,]Dorothy: But don't get your hopes up.
 Jill: What do you mean?
-Dorothy: I'm a lilim. We don't come in cat boomer. And we process food radically different from humans.
+Dorothy: I'm a Lilim. We don't come in Cat Boomer. And we process food radically different from humans.
 Dorothy: There's no chance I'll grow cat ears from this.
 Jill: Don't jinx it. And Boss didn't specifically say it makes you grow cat ears.
 Jill: She said it 'makes you at least 3 times cuter'.
@@ -688,7 +688,7 @@ Jill: Woah!
 [XS:doroface,dogs]Dorothy: H- Hey, what just happened? Why are my jammers on the floor? And why are you looking at me like that?
 Jill: You... might wanna take back what you said before.
 [XS:doroface,think]Dorothy: Huh, what do you mean......
-Jill: (So this milk works even on lilim, huh?)
+Jill: (So this milk works even on Lilim, huh?)
 Jill: (Maybe I went too far with this one...)
 [XS:doroface,heart]Dorothy: No way! I actually grew cat ears?! And they even move?
 [XS:doroface,smug]Dorothy: How do I look, Honey? How much cuter am I!?
@@ -709,8 +709,8 @@ Jill: No. There's a pair of fluffy ears in the way.
 [XS:doroface,]Dorothy: Anyway, I have one more pair directly under the headband. So it's basically like an adapter.
 Jill: Huh... And why are the slots specifically located on the head?
 Dorothy: That's just how we DFC-72 are built. It's mostly for aesthetics.
-Dorothy: But many lilim you find walking around hide their slots with accessories or covers.
-Dorothy: I've even seen lilim hiding them with huge hairdos, like an afro.
+Dorothy: But many Lilim you find walking around hide their slots with accessories or covers.
+Dorothy: I've even seen Lilim hiding them with huge hairdos, like an afro.
 Jill: That explains why I only ever see them so rarely.
 
 
@@ -721,27 +721,27 @@ Jill: (Of course.)
 Dorothy: But more importantly, it's part of the Lilim-positivity movement.
 Jill: Lilim-positivity movement?
 Dorothy: Yep. They're advocating for showing off our artificiality as a message.
-Jill: But don't lilim hate being seen as artificial?
-Dorothy: That's the point. By willfully showing off their artificial parts, they want to show the world that lilim are more than just machines.
+Jill: But don't Lilim hate being seen as artificial?
+Dorothy: That's the point. By willfully showing off their artificial parts, they want to show the world that Lilim are more than just machines.
 Dorothy: Glitch City's one of the only places where they can do this sort of thing.
-[XS:doroface,think]Dorothy: Freedom of expression isn't really a thing most lilim outside the city have...
+[XS:doroface,think]Dorothy: Freedom of expression isn't really a thing most Lilim outside the city have...
 [XS:doroface,pachi]Dorothy: So it's our job to use our freedom to help change the status quo.
 Jill: Strange that I never heard about this movement before.
 [XS:doroface,]Dorothy: It's not really that far spread among humans, I think. The whole thing happens mostly in the Collective Source.
-Jill: Really? Are you able to talk with other lilim there?
+Jill: Really? Are you able to talk with other Lilim there?
 Dorothy: Not exaaactly. So you know that we regularly upload our consciousness to the Collective Source?
 Jill: Yes. I think it was so you can be redeployed, should something happen to your body, right?
 Dorothy: Right. And when we throw our data into the pile, it kind of... mixes with the rest.
 [XS:doroface,pachi]Dorothy: And by becoming part of the collective consciousness, it's easy for ideas to be spread all around the world in a matter of days.
 Jill: And that's how the idea of the Lilim-positivity movement was spread?
 [XS:doroface,pachi]Dorothy: Exactly!
-[XS:doroface,]Dorothy: But taking part is still up to the individual lilim.
-Dorothy: And even if I wanted every lilim to follow the movement's example, it's better this way.
+[XS:doroface,]Dorothy: But taking part is still up to the individual Lilim.
+Dorothy: And even if I wanted every Lilim to follow the movement's example, it's better this way.
 Jill: Huh, why?
 [XS:doroface,pachi]Dorothy: Because there's no better proof of our autonomy than having different opinions despite having the same information.
 Jill: I... never thought about it like that. That's some great insight.
 [XS:doroface,]Jill: The Collective Source is such a fascinating topic, but whenever I try to read up on it, I end up understanding nothing or falling asleep.
-Dorothy: Yeah... it's a very complicated subject. Even we lilim have problems understanding it sometimes.
+Dorothy: Yeah... it's a very complicated subject. Even we Lilim have problems understanding it sometimes.
 
 
 *DoroEars*
@@ -756,7 +756,7 @@ Jill: (She certainly looks happy about them...)
 [XS:doroface,smug]Dorothy: Honey, you know I'll let you stare all you want but if you do it any harder, you might bore a hole in them.
 Jill: -!!
 Jill: Ah, sorry. They just draw in my eyes and don't let go.
-[XS:doroface,smug]Dorothy: Aww, could it be that you're jealous~~?
+[XS:doroface,smug]Dorothy: Aww, could it be that you're jealous?~~
 
 
 *JillCatify*
@@ -918,7 +918,7 @@ Jill: ...I don't know, that sounds like a dangerous preference.
 Dorothy: That's why they come to us to roleplay it. It's fine, normally.
 Jill: Normally?
 Dorothy: Yeah... however there was that one particular guy who was the exception.
-Dorothy: He paid a good sum in advance to have me kill some other lilim he roped in.
+Dorothy: He paid a good sum in advance to have me kill some other Lilim he roped in.
 Jill: (The way she says this so nonchalantly...)
 Dorothy: The plan was that they'd go on a date together and that I should show up later.
 Dorothy: My job was to barge into his home and pretend to kill his date.
@@ -926,7 +926,13 @@ Jill: Pretend to kill?
 Dorothy: Yeah. Insult her while I dismembered her. I was told she was a professional, so I saw little to complain about.
 Jill: That sounds extremely out-of-character for you.
 Dorothy: Oh, it totally was. I had to practice a lot at home to sound convincing.
-Dorothy: Anyway, so I was dismembering her bit by bit, and all I can think of is that the girl's acting is shockingly believable.
+Dorothy: Believe it or not, but I've never been as nervous as that time for a job.
+Jill: I can imagine.
+Dorothy: Everything went wrong at first. I dropped the key to the apartment, fumbled my first line and stuttered a bit in my delivery.
+Dorothy: When I got to restraining her, I even forgot the handcuffs! "I'm failing my act left and right" I thought.
+Dorothy: But what really helped me calm down after all that was the other Lilim girl.
+Dorothy: As I was dismembering her bit by bit all I could think of is that the girl's acting was shockingly believable.
+Dorothy: She really seemed like the professional she was described as.
 Jill: ...
 Dorothy: So at some point, I took out her phone, just as part of the act.
 Dorothy: I got the code out of her to unlock it and looked at her photos, which I was told were prepared in advance as well.
@@ -939,7 +945,7 @@ Jill: What did the guy do?
 Dorothy: After I told him that I would do the same to him for lying to me, he ran with his tail between his legs.
 [XS:doroface,pachi]Dorothy: Literally, as he was completely naked.
 [XS:doroface,]Dorothy: I still reported him to the White Knights, but I don't know what became of him after that.
-Jill: And the lilim girl?
+Jill: And the Lilim girl?
 Dorothy: After apologizing profusely, I gave her the money from the job for therapy.
 Dorothy: And now, a year later, I still keep in touch with her.
 Dorothy: She's gotten much better.
@@ -1002,15 +1008,15 @@ Jill: Say, about your recorder...
 [XS:doroface,]Dorothy: Voicebox.
 Jill: Huh?
 Dorothy: It's my voicebox. Everything I say is coming from there, not just recordings.
-Jill: Oh, I didn't know that. Do all lilim have the ability to record things?
+Jill: Oh, I didn't know that. Do all Lilim have the ability to record things?
 Dorothy: Generally yes. But it's not automatically unlocked for most of them.
-Dorothy: Only work lilim have it when they deploy.
+Dorothy: Only work Lilim have it when they deploy.
 Jill: So you didn't? How did you unlock it?
 Dorothy: It was pretty easy. There's video tutorials for it out there.
 Jill: Wait really? And that's legal?
 Dorothy: Well, if you go through with it you lose your warranty and can't have it be repaired or replaced at an official store.
 Jill: That doesn't sound like too much of a drawback.
-Dorothy: It isn't, but many lilim just don't trust Ripperdocs should something happen.
+Dorothy: It isn't, but many Lilim just don't trust Ripperdocs should something happen.
 Jill: Now that you mention it, I wouldn't want to get under their knife either. Especially if I couldn't even talk.
 Dorothy: Right? And buying a new one is also something nobody wants to do.
 Jill: Huh, why? Are they that expensive?
@@ -1020,17 +1026,18 @@ Dorothy: So you either get a completely new voice or go to a Ripperdoc again. An
 Jill: ...okay, I take it back. That IS a lot of drawbacks.
 Jill: So why did you do it then?
 Dorothy: For my job. And safety, broadly speaking.
-Jill: In case someone muggs you while you're defenseless?
+Jill: In case someone mugs you while you're defenseless?
 Dorothy: Theoretically, yes.
 [XS:doroface,smug]Dorothy: But in that case, I have more... active ways of fighting back.
 [XS:doroface,]Dorothy: No, it's more to defend myself legally.
-Dorothy: Many escorts started making contracts for their clients to save themselves from people trying to cheat their way out of paying.
+Dorothy: There's always people trying to cheat their way out of paying.
+Dorothy: So many escorts started making contracts for their clients.
 Dorothy: But I don't like that. It makes the sex feel like business.
 [XS:doroface,pachi]Dorothy: I mean, it is. But it should feel fun and easy. That's what keeps my business up.
 Jill: Makes sense. So instead you use recordings?
 [XS:doroface,]Dorothy: Yes. I tell my clients beforehand of course, but there's no weight of obligations and signatures to the whole thing.
 Dorothy: That way, I can also sell the recording to the customer, should they want it.
-Jill: (Recording everything and selling it to people? Maybe she should meet with a certain Streamer...)
+Jill: (Recording everything and selling it to people? Maybe she should meet with a certain streamer...)
 Dorothy: But that doesn't mean that they won't try to get some free sex regardless.
 Dorothy: There was this one guy a few months ago that accused me of doctoring the voice recording.
 [XS:doroface,angry]Dorothy: "No way I agreed to that price. How dumb do you take me for?"[XS:doroface,] he said.
@@ -1062,7 +1069,7 @@ Jill: ... I could. Or you could just tell me that you want a glass of milk. You'
 Jill: There's a good reason for it.
 Dorothy: I'd love to hear that reason.
 Jill: The milk seems to cause people to grow cat ears.
-[XS:doroface,smug]Dorothy: What, like a cat boomer? That milk? Honey, are you pulling my leg?
+[XS:doroface,smug]Dorothy: What, like a Cat Boomer? That milk? Honey, are you pulling my leg?
 Jill: You wish. Watch this: HEY GILLINYAN!
 Gillinyan: Don't call me that!
 Jill: No promises. But can you come over for a second?
@@ -1071,7 +1078,7 @@ Dorothy: ......
 [XS:gilface,fucked]Gillinyan: Don't tell me...
 Dorothy: Woah. He really has cat ears.
 Jill: Told ya so.
-Gillinyan: So, did you need me for anything besides showing off those ears?
+Gillinyan: So, did you need me for anything besides showing off these ears?
 Jill: Nope. You can go now, John.
 [XS:gilface,cods]Gillinyan: That the day comes where I'm glad to hear that nickname...
 Jill: So, convinced?
@@ -1198,7 +1205,7 @@ Jill: (How do you know of the milk? The glass is gone.)
 [XS:anface,smugsmile]Anna: I have lacto-vision.
 Jill: (...)
 [XS:anface,]Anna: So is that a no, or...
-Jill: No. I mean yes. I mean I won't serve you anything.
+Jill: (No. I mean yes. I mean I won't serve you anything.)
 Anna: Don't you want to see me with cat ears?
 Jill: (Even if I wanted, you wouldn't even be able to drink the milk and you know it.)
 Jill: (And how do you even know the milk makes you grow cat ears?)
@@ -1326,9 +1333,9 @@ Anna: It'll be my pleasure!
 [XS:jillface,]Anna: Uh... it has the alcohol you wanted.
 Jill: (Seems you serve non-lactose-based drinks as well.)
 Anna: Wow, role reversal. Seems now I have to be the awkward bartender.
-Jill: (Awkward? Look, do you need help?)
+[XS:jillface,sad]Jill: (Awkward? Look, do you need help?)
 Anna: A little. Maybe this thing is out of milk.
-Jill: (It's not. Okay, you have to go to the bottled drinks tab and-)
+[XS:jillface,]Jill: (It's not. Okay, you have to go to the bottled drinks tab and-)
 Anna: GOT IT! Easy Peazy.
 Anna: Here you go, Jo.
 Jill: (...thank you.)
@@ -1406,7 +1413,7 @@ Jill: It's kinda like talking to you.
 Anna: Me?
 Jill: Yeah. Just because I'm the only one to see and hear you in the bar doesn't mean you're fake, right?
 Anna: I'm not fake, huh?...
-Anna: You're really making it easy for you, y'know that?
+Anna: You're really making it easy on yourself, y'know that?
 Jill: It IS easy. I don't need any proof to have something FEEL real.
 Jill: And today... well, let's say I felt a lot of things.
 Anna: Yep, you've gone crazy. Calling a dream real.
@@ -1426,6 +1433,6 @@ Jill: BOSS, I'M DONE FOR THE DAY!
 Danya: OKAY. GOOD WORK, JILL.
 [XS:jillface,smile]Jill: Goodbye.
 Anna: See you on the other side, Julinyanne.
-[XS:jillface,surprise]Julinyanne: Hey, wait. What did you just say? Did you just call me JuliNYANne?! Anwser me, dammit!
+[XS:jillface,surprise]Julinyanne: Hey, wait. What did you just say? Did you just call me JuliNYANne?! Answer me, dammit!
 
 
